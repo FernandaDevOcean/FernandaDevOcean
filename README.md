@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Fernanda Maria
-- 👀 I’m interested in ocean, animals, nature...
-- 🌱 I’m currently learning to code hehe
-- 😄 Pronouns: she/her
+- 👋 Oi, eu sou Fernanda!
+- 👀 Sou uma pessoa curiosa que adora falar sobre oceanos, animais... Especialmente gatos hehe
+- 😄 Atualmente tenho dado continuidade aos estudos em programação, com enfâse no momento em Python
 
 <!---
 FernandaDevOcean/FernandaDevOcean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
